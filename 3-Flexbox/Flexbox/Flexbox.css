@@ -1,0 +1,24 @@
+#contenedor {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    display:flex;
+    flex-direction:column;
+    align-items:enter;
+}
+
+.caja{
+width: 50px;
+height: 50px;
+margin:10px;
+background-color: blue;
+font-size: 15px;
+color: #fff;
+text-align: center;
+}
+
+.caja2{
+    height:100px;
+    width: 75px;
+
+}

@@ -1,0 +1,34 @@
+#amarillo{
+    height: 150px;
+    width: 500px;
+    background: #fc0;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+  
+  #amarillo2{
+    height: 100px;
+    width: 500px;
+    background: #fc0;
+    display: flex;
+    flex-direction: row; 
+    align-items: stretch;
+    justify-content: space-between;
+  }
+  
+  #caja1{
+    height: 100px;
+    width: 150px;
+    background: #06a;
+  }
+  
+  #caja2{
+    height: 100px;
+    width: 300px;
+    background: #06a;
+  }
+
+  /* */
+  
